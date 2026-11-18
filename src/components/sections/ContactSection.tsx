@@ -137,7 +137,7 @@ export const ContactSection: React.FC = () => {
                     {language === "hi" ? "कार्य स्थल" : "Operating Location"}
                   </span>
                   <span className="text-sm font-semibold text-white">
-                    RKGIT, Ghaziabad, Uttar Pradesh, India
+                    Ghaziabad, Uttar Pradesh, India
                   </span>
                 </div>
               </div>
