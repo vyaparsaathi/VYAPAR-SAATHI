@@ -495,7 +495,7 @@ export const content: Record<Language, Translations> = {
         {
           question: "Where are you based and how do we communicate?",
           answer:
-            "We are based at RKGIT, Ghaziabad, Uttar Pradesh, India. We maintain seamless communication via WhatsApp, direct phone calls, and Google Meet for reviews and updates.",
+            "We are based at Ghaziabad, Uttar Pradesh, India. We maintain seamless communication via WhatsApp, direct phone calls, and Google Meet for reviews and updates.",
         },
       ],
     },
@@ -532,7 +532,7 @@ export const content: Record<Language, Translations> = {
       quickLinks: "Quick Links",
       servicesLabel: "Core Services",
       contactLabel: "Contact Information",
-      operatingLocation: "RKGIT, Ghaziabad, Uttar Pradesh, India",
+      operatingLocation: "Ghaziabad, Uttar Pradesh, India",
       rights: "Vyapar Sathi. All rights reserved.",
       whatsappChat: "Message on WhatsApp",
     },
@@ -879,7 +879,7 @@ export const content: Record<Language, Translations> = {
         {
           question: "आपका कार्यालय कहां है और संपर्क कैसे होगा?",
           answer:
-            "हमारा कार्यालय आरकेजीआईटी (RKGIT), गाजियाबाद, उत्तर प्रदेश में स्थित है। आप सीधे +91 7704841382 पर कॉल कर सकते हैं या व्हाट्सएप पर बात कर सकते हैं।",
+            "हमारा कार्यालय गाजियाबाद, उत्तर प्रदेश में स्थित है। आप सीधे +91 7704841382 पर कॉल कर सकते हैं या व्हाट्सएप पर बात कर सकते हैं।",
         },
       ],
     },
@@ -916,7 +916,7 @@ export const content: Record<Language, Translations> = {
       quickLinks: "महत्वपूर्ण लिंक्स",
       servicesLabel: "मुख्य सेवाएं",
       contactLabel: "संपर्क सूत्र",
-      operatingLocation: "आरकेजीआईटी (RKGIT), गाजियाबाद, उत्तर प्रदेश, भारत",
+      operatingLocation: " गाजियाबाद, उत्तर प्रदेश, भारत",
       rights: "व्यापार साथी। सर्वाधिकार सुरक्षित।",
       whatsappChat: "व्हाट्सएप पर बात करें",
     },
